@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+tensorflow
+torch
+transformers
+numpy
+pandas
+scikit-learn
+opencv-python
+matplotlib
+python-multipart

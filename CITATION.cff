@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "AI-Based Multi Cyber Attack Detection System for Chat and Email Platform"
+message: "If you use this project, please cite it."
+authors:
+  - family-names: "Ahamed"
+    given-names: "Sarfraj"
+repository-code: "https://github.com/sarfraj-ahamed/AI-Based-Multi-Cyber-Attack-Detection-System-for-Chat-and-Email-Platform"
+license: MIT
